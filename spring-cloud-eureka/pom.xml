@@ -11,6 +11,7 @@
         <module>eureka-server</module>
         <module>eureka-client</module>
         <module>ribbon-consumer</module>
+        <module>feign-consumer</module>
     </modules>
     <packaging>pom</packaging>
     <description>Spring Cloud微服务实战第3章学习代码</description>
